@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Detection}{6}{0}{2}
+\beamer@sectionintoc {3}{Classification}{13}{0}{3}
+\beamer@sectionintoc {4}{Examples}{33}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{59}{0}{5}
